@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ABCDEFGHIJ.com.example.example",
+                "paths": ["TFCCTF{4ppl3_4pp_51t3_4550c14t10n}"]
+            }
+        ]
+    }
+}
